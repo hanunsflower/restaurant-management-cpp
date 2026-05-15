@@ -1,0 +1,5 @@
+it is good
+Customer: rich | Rating: 2 | Feedback: good
+Customer: anony | Rating: 3 | Feedback: good
+Customer: rr | Rating: 5 | Feedback: good
+Customer: HH | Rating: 4 | Feedback: was very good.
